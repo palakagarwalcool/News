@@ -1,0 +1,2 @@
+com/example/newsfresh/BuildConfig.java
+ com.example.newsfresh.BuildConfig
